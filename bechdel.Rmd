@@ -1,6 +1,6 @@
 ---
 title: "Bechdel"
-author: "YOU"
+author: "Cailey Fay"
 date: "`r Sys.Date()`"
 output: 
   html_document: 
@@ -26,7 +26,7 @@ bechdel90_13 <- bechdel %>%
   filter(between(year, 1990, 2013))
 ```
 
-There are ---- such movies.
+There are 1,615 such movies.
 
 The financial variables we'll focus on are the following:
 
